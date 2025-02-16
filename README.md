@@ -9,8 +9,7 @@ This repository contains the solution for the Pursuit Data Engineer Technical As
 - [Installation Instructions](#installation-instructions)
 - [Data Exploration](#data-exploration)
 - [Usage](#usage)
-- [Future Improvements](#future-improvements)
-- [Conclusion](#conclusion)
+
 
 ## Project Overview
 
